@@ -110,6 +110,11 @@ Reason:
 No extra libraries required.
 
 ---
+# Files
+Sample file ---> Always-on display(com.miui.aod).bak
+descript.xml
+compress.py
+extract.py
 
 # Usage Instructions
 
@@ -173,8 +178,10 @@ MIUI/backup/AllBackup/20251012/
 ## Recommended folder structure:
 
 MIUI/backup/AllBackup/20251012/
-                             -----"Always-on display(com.miui.aod).bak"
-                             -----"descript.xml"
+                             
+                             "Always-on display(com.miui.aod).bak"
+                             
+                             "descript.xml"
 
 
 Important:
