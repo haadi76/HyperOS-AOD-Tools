@@ -228,29 +228,9 @@ The author is not responsible for:
 
 Always keep a safe backup before using it.
 
----
-
-# License (MIT)
-
-This project is open source under the MIT License.
-
-You are free to:
-
-* Use
-* Modify
-* Share
-* Improve
-* Fork
-
----
-
 # Final Notes
 
 * Works on HyperOS 3.0.5.0 (tested)
 * Always keep backups before restoring
 * Keep backup strictly AOD-only for best results
 * System updates may break compatibility in future
-
----
-
-If you want, I can also convert this into a **perfect GitHub README with badges, headings, and formatting that looks professional and ready to publish.**
