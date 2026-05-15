@@ -110,11 +110,6 @@ Reason:
 No extra libraries required.
 
 ---
-# Files
-Sample file ---> Always-on display(com.miui.aod).bak
-descript.xml
-compress.py
-extract.py
 
 # Usage Instructions
 
@@ -205,6 +200,15 @@ Important:
 9. Your modified themes will appear
 
 ---
+
+# Files
+Sample file ---> Always-on display(com.miui.aod).bak
+
+descript.xml
+
+compress.py
+
+extract.py
 
 # Compatibility
 
